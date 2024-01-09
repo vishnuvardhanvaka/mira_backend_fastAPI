@@ -15,7 +15,10 @@ origins = [
     "https://localhost.tiangolo.com",
     "http://localhost:3000",
     "http://localhost:3000/",
-    "http://192.168.0.128:3000/"
+    "http://192.168.0.128:3000/",
+    "https://miraparentpal.com",
+    "https://www.miraparentpal.com",
+    'https://miraparentpal.vercel.app'
 ]
 
 class FormData(BaseModel):
