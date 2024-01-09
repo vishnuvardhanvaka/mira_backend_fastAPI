@@ -23,7 +23,9 @@ origins = [
     "http://localhost:3000",
     "http://localhost:3000/",
     "http://192.168.0.128:3000/",
-    'https://c293-2406-7400-35-5160-9af4-1d1-2103-da1b.ngrok-free.app'
+    "https://miraparentpal.com",
+    "https://www.miraparentpal.com",
+    'https://miraparentpal.vercel.app'
 ]
 
 app=FastAPI()
